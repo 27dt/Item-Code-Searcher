@@ -1,0 +1,41 @@
+5281,Beef Finger Rib Bnls
+80260,Spanish Fresh Cheese
+18365,PC FF CP Breast Bnls Skinless
+85260,PC FF TP Breast Bnls Skinless
+85520,PC FF Breast Skin On
+85522,PC FF Breast Cutlets
+36972,PC FF CP Thighs
+18349,PC FF TP Thighs
+18205,PC FF CP Thighs Bnls Skinless
+85261,PC FF TP Thighs Bnls Skinless
+41664,PC FF CP Drumsticks
+85262,PC FF TP Drumsticks
+18371,PC FF CP Wings Split
+11670,PC FF TP Wings Split
+85259,PC FF Whole Chicken
+17350,Prime Thighs
+17248,Prime Drums
+5913,Chicken Backs
+19247,CP Breast Bnls Skinless
+19426,TP Breast Bnls Skinless
+19378,CP Thighs
+11481,CP Breast Fillet
+19408,CP Thighs Bnls Skinless
+15290,CP Wings Split
+19399,Whole Chicken
+38360,Halal Extra Lean Ground Chicken
+57997,Halal Chicken Breast
+57994,Halal Chicken Thighs
+14910,Halal Chicken Drumsticks
+58082,Halal Chicken Wings
+14930,Halal Whole Chicken
+14856,Halal Chicken Legs
+36403,Cornish Hen
+2100,Frozen Duck
+2125,Frozen Geese
+14823,Cook's Half Ham Portions
+11135,Cook's Whole Smoked Picnic Ham
+15339,Half Ham Toupie
+18304,PC Applewood Spiral Ham
+37345,PC Boneless Spiral Ham
+18305,PC Hickory Brown Sugar Spiral Ham
